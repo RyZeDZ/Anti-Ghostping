@@ -27,4 +27,4 @@ async def on_message_delete(message):
 		await message.channel.send(embed = emb)
 
 
-client.run("OTAyNTE1NzYxMjU0MzkxODM4.YXfjTQ.2k7b_zEJ0pN9lPhJkWNAX52qNw8")
+client.run("TOKEN")
